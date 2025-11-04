@@ -1,0 +1,38 @@
+:root{
+    --bs-body-font-family: "Noto Sans TC", sans-serif; Muli, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-weight:400;
+    --bs-primary-rgb:230,203,237;
+    --bs-link-color:rgb(230,203,237);
+    --bs-link-hover-color:#E6CBED;
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";  
+     text-transform:none;
+}
+
+h2{
+     text-transform: uppercase;
+}
+
+.tooltip.popover,.subheading{
+     font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      font-weight:200;
+       text-transform:none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.social-icons .social-icon:hover{
+    background-color: rgb(230,203,237);
+}
+
+nav{
+background-image:url("../assets/img/crissxcross.png");
+}
+
+.resume-section{
+    background-color: rgb(247, 239, 248);
+}
